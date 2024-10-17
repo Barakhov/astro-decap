@@ -7,20 +7,25 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Arch Linux Package",
-    techs: ["bash"],
-    link: "https://codenanshu.in/projects/ttf-apple-fonts/",
+    title: "MS",
+    techs: ["Webflow", "GSAP"],
+    link: "https://www.mendesaltaren.com/",
   },
   {
-    title: "Firstly",
-    techs: ["React Native", "JavaScript"],
-    link: "https://codenanshu.in/projects/firstly/",
+    title: "TURN2X",
+    techs: ["React", "Gatsby", "SASS", "GSAP"],
+    link: "https://turn2x.com/",
   },
   {
-    title: "Astro / Template",
-    techs: ["Astro"],
-    link: "/"
+    title: "ClimateExchange",
+    techs: ["Webflow", "GSAP"],
+    link: "https://www.climatexc.org/",
   },
+  {
+    title: "Textualize",
+    techs: ["Eleventy", "JavaScript", "CSS3"],
+    link: "https://www.textualize.io/",
+  },  
 ];
 
 export default projects;
